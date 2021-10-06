@@ -1,0 +1,25 @@
+.str0 {
+    stroke:white;
+    stroke-width:76.36
+    ;stroke-miterlimit:22.9256
+}
+.fil0 {
+    fill:#EEEEEE
+}
+polygon:hover, circle:hover {
+    cursor: pointer;
+    fill: blue;
+    
+}
+#hrodnenskaia-voblasts, #vitsebskaia-voblasts, #mahiliouskaia-voblasts, #homelskaia-voblasts, #minskaia-voblasts, #brestskaia-voblasts{
+    fill:rgb(18, 202, 235);;
+}
+#horad-minsk{
+    fill:red;
+}
+#hrodnenskaia-voblasts:hover, #vitsebskaia-voblasts:hover, #mahiliouskaia-voblasts:hover, #homelskaia-voblasts:hover, #minskaia-voblasts:hover, #brestskaia-voblasts:hover{
+    fill:rgb(18, 235, 134);;
+}
+#horad-minsk:hover{
+    fill:rgb(114, 9, 9);
+}
